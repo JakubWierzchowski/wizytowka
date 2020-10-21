@@ -28,6 +28,7 @@ display: flex;
 align-items: flex-start;
 }
 .person__picture {
+    border-radius: 20%;
     margin-right: 32px;
 }
 .person__description--with-margin {
